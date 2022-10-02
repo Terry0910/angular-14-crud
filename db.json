@@ -1,0 +1,40 @@
+{
+  "productList": [
+    {
+      "productName": "iPhone 14 Pro Max",
+      "category": "Electronics",
+      "condition": "Brand New",
+      "price": 140000,
+      "comment": "Newly Launched",
+      "date": "2022-09-15T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "condition": "Brand New",
+      "price": 499,
+      "comment": "Freshly Plucked",
+      "date": "2022-09-04T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "BenQ Gw2480 24-Inch",
+      "category": "Electronics",
+      "condition": "Brand New",
+      "price": 11250,
+      "comment": "Brightness Intelligence",
+      "date": "2023-02-28T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Logitech G213 Prodigy Gaming Keyboard",
+      "category": "Electronics",
+      "condition": "Brand New",
+      "price": 3955,
+      "comment": "Dedicated Multi-Media Keys - Black",
+      "date": "2023-07-04T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
